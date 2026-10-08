@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+.idea/
+.vscode/
+
+# OAuth secrets/tokens — never commit these
+credentials.json
+token.json
+application_default_credentials.json
+*.env
+.env
+credentials*.json
+token*.json
